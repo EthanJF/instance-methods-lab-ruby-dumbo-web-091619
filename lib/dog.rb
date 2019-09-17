@@ -3,6 +3,6 @@ class Dog
     puts "Woof!"
   end
   def sit
-    
+    put 
   end
 end
